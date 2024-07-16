@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Deep Learning, Robotics, and Embedded Systems
 - 🌱 I’m currently learning RL
 - 💬 Ask me about ML & DL
-- 📫 How to reach me: @hrishikeshhp
+- 📫 How to reach me: [@hrishikeshhp](https://x.com/hrishikeshhp)
 <!--
 **hrishikeshhpillai/hrishikeshhpillai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
