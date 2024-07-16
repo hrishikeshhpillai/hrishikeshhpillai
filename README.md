@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I'm Hrishikesh H Pillai
 
+- 🔭 I’m currently working on Deep Learning, Robotics, and Embedded Systems
+- 🌱 I’m currently learning RL
+- 💬 Ask me about ML & DL
+- 📫 How to reach me: @hrishikeshhp
 <!--
 **hrishikeshhpillai/hrishikeshhpillai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
